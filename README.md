@@ -1,4 +1,4 @@
-## Netflix mobile
+## Netflix (mobile)
 
 Nesse projeto, voltei meus estudos em reproduzir uma das maiores plataformas de Streaming do mundo, a Netflix.
 
