@@ -23,6 +23,8 @@ Nesse projeto, voltei meus estudos em reproduzir uma das maiores plataformas de 
 
 Uma Reprodução do Aplicativo da Netflix, em sua versão Mobile, com interfaces interligadas, tornando o Projeto, mais interativo.
 
+![Gif I Netflix Mobile](https://user-images.githubusercontent.com/79064185/195921281-6a3e2ccc-6173-47f8-b0d1-4d14c13fb527.gif)
+
 ## ✔️ Tecnologias utilizadas
 
 O Projeto utilizou exclusivamente a linguagem Java em seu Desenvolvimento.
